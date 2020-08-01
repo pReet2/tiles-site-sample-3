@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+
+}
+.navbar{
+    background-color: #92332E;
+}
+
+#hero-section{
+    padding-top: 60px;
+}
+
+.learn{
+    width: 30%;
+    height: 10%;
+    padding: 5px;
+    border: 1px solid brown;
+    border-radius: 20px;
+    background-color: #92332E;
+}
+
+#about-us{
+    padding: 50px;
+    border: 2px solid brown;
+}
+#products{
+    padding: 40px 20px;
+}
+ h3{
+    border-bottom: 2px solid brown;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: #92332E;
+}
+
+#footer{
+    background-color: #92332E;
+    padding: 40px;
+}
